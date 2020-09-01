@@ -1,0 +1,3 @@
+[32mINFO    [0m LOG:my_log.py:28 元素('id', 'username')在登录界面——登录界面可见
+[32mINFO    [0m LOG:my_log.py:28 元素('xpath', '//*[text()="首页"]')在投资_首页界面可见
+[32mINFO    [0m LOG:my_log.py:28 元素('id', 'amountPay')在投资_投资界面可见
