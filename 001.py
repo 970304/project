@@ -14,7 +14,7 @@ class HTTP_Res:
             a = res.text.encode().decode("unicode_escape")
         return a
 
-# II
+
 url = 'http://localhost/action/login.php?action=login'
 data = {'username': '138493948755',
         'password': '123456'}
