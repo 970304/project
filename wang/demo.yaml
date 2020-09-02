@@ -1,0 +1,18 @@
+
+animal:
+  - dog
+  - pig
+  - cat
+
+db:
+  host: localhost
+  port: 3306
+  user: weibospider
+  password: xxx
+  db_name: weibo
+
+age: 18
+name: aa
+sex: x
+
+
