@@ -1,2 +1,0 @@
-[32mINFO    [0m LOG:my_log.py:28 元素('id', 'amountPay')在投资_投资界面可见
-[32mINFO    [0m LOG:my_log.py:28 元素('xpath', '//*[@id="terr"]')在首页_投资界面可见
